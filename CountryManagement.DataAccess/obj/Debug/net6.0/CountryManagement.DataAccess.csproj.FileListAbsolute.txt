@@ -1,0 +1,17 @@
+D:\CountryManagement\CountryManagement.DataAccess\bin\Debug\net6.0\CountryManagement.DataAccess.deps.json
+D:\CountryManagement\CountryManagement.DataAccess\bin\Debug\net6.0\CountryManagement.DataAccess.dll
+D:\CountryManagement\CountryManagement.DataAccess\bin\Debug\net6.0\CountryManagement.DataAccess.pdb
+D:\CountryManagement\CountryManagement.DataAccess\bin\Debug\net6.0\CountryManagement.Domain.dll
+D:\CountryManagement\CountryManagement.DataAccess\bin\Debug\net6.0\CountryManagement.Domain.pdb
+D:\CountryManagement\CountryManagement.DataAccess\obj\Debug\net6.0\CountryManagement.DataAccess.csproj.AssemblyReference.cache
+D:\CountryManagement\CountryManagement.DataAccess\obj\Debug\net6.0\CountryManagement.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\CountryManagement\CountryManagement.DataAccess\obj\Debug\net6.0\CountryManagement.DataAccess.AssemblyInfoInputs.cache
+D:\CountryManagement\CountryManagement.DataAccess\obj\Debug\net6.0\CountryManagement.DataAccess.AssemblyInfo.cs
+D:\CountryManagement\CountryManagement.DataAccess\obj\Debug\net6.0\CountryManagement.DataAccess.csproj.CoreCompileInputs.cache
+D:\CountryManagement\CountryManagement.DataAccess\obj\Debug\net6.0\CountryManagement.DataAccess.csproj.CopyComplete
+D:\CountryManagement\CountryManagement.DataAccess\obj\Debug\net6.0\CountryManagement.DataAccess.dll
+D:\CountryManagement\CountryManagement.DataAccess\obj\Debug\net6.0\refint\CountryManagement.DataAccess.dll
+D:\CountryManagement\CountryManagement.DataAccess\obj\Debug\net6.0\CountryManagement.DataAccess.pdb
+D:\CountryManagement\CountryManagement.DataAccess\obj\Debug\net6.0\ref\CountryManagement.DataAccess.dll
+D:\CountryManagement\CountryManagement.DataAccess\bin\Debug\net6.0\CountryManagement.DataAccess.runtimeconfig.json
+D:\CountryManagement\CountryManagement.DataAccess\obj\Debug\net6.0\CountryManagement.DataAccess.genruntimeconfig.cache
