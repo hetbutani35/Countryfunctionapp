@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountryManagement.DataAcces
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountryManagement.API", "..\CountryManagement.API\CountryManagement.API.csproj", "{6FE1E43E-6F3E-451C-B00B-A44F7600E684}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountryFunctions", "..\CountryFunctions\CountryFunctions.csproj", "{FDC903F3-FF6C-4502-8508-B8031B27BCAC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsolatedCountryFunction", "..\IsolatedCountryFunction\IsolatedCountryFunction.csproj", "{889CE1AB-3767-496E-80A1-E5A08D5F8F15}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,10 @@ Global
 		{6FE1E43E-6F3E-451C-B00B-A44F7600E684}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6FE1E43E-6F3E-451C-B00B-A44F7600E684}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6FE1E43E-6F3E-451C-B00B-A44F7600E684}.Release|Any CPU.Build.0 = Release|Any CPU
-		{FDC903F3-FF6C-4502-8508-B8031B27BCAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FDC903F3-FF6C-4502-8508-B8031B27BCAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FDC903F3-FF6C-4502-8508-B8031B27BCAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FDC903F3-FF6C-4502-8508-B8031B27BCAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{889CE1AB-3767-496E-80A1-E5A08D5F8F15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{889CE1AB-3767-496E-80A1-E5A08D5F8F15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{889CE1AB-3767-496E-80A1-E5A08D5F8F15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{889CE1AB-3767-496E-80A1-E5A08D5F8F15}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

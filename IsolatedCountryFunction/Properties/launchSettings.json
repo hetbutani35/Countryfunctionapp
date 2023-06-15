@@ -1,8 +1,8 @@
 {
   "profiles": {
-    "CountryFunctions": {
+    "IsolatedCountryFunction": {
       "commandName": "Project",
-      "commandLineArgs": "--port 7168",
+      "commandLineArgs": "--port 7282",
       "launchBrowser": false
     }
   }

@@ -1,4 +1,5 @@
-﻿using CountryManagement.Domain.Repository;
+﻿using CountryManagement.Domain.Entities;
+using CountryManagement.Domain.Repository;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CountryManagement.API.Controllers
@@ -17,8 +18,8 @@ namespace CountryManagement.API.Controllers
         [HttpGet]
         public IActionResult Get()
         {
-            _unitOfWork.Country.RemoveByID(2);
-
+            _unitOfWork.Country.Add(new Country { id = 2, countrycode = "AUS", countryname = "Australia", createdby = 2, createddate = DateTime.UtcNow, isactive = true });
+            //_unitOfWork.Country.RemoveByID(2);
             var countryfrom = _unitOfWork.Country.GetAll();
             return Ok(countryfrom);
 
